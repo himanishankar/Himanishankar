@@ -31,7 +31,6 @@
 
 
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Himanishankar/Himanishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
