@@ -14,6 +14,13 @@
 
 ---
 
+<!-- Snake Game -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanishankar/himanishankar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <!-- Streak counter -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" alt="GitHub Streak" />
@@ -36,5 +43,4 @@
 <!-- Dynamic Git stats cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanishankar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanishankar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
