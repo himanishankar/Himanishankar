@@ -11,14 +11,10 @@
 </div>
 
 
+<!-- Streak counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanishankar&color=36BCF7&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" alt="GitHub Streak" />
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 
