@@ -13,12 +13,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanishankar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="175"/>
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" />
