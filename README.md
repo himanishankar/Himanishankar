@@ -1,9 +1,14 @@
 <!-- Typing SVG Header -->
-<h1 align="center">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Himani!&fontSize=40&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Himani;Learning+and+Building+Everyday;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Open-Source+Enthusiast;Crafting+digital+experiences;Turning+coffee+into+code%F0%9F%A3%B0" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 ---
 
