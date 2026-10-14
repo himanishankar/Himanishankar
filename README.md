@@ -24,3 +24,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanishankar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+---
+
+<!-- Streak counter -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
