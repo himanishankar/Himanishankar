@@ -26,6 +26,14 @@
 
 ---
 
+<!-- Dynamic Git stats cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanishankar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+---
+---
+
 <!-- Tech stack badges -->
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
@@ -35,10 +43,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-<!-- Dynamic Git stats cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanishankar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
