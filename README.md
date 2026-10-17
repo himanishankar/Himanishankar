@@ -27,13 +27,6 @@
 
 ---
 
-<!-- Streak counter -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanishankar&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 <!--Tech stack Badges -->
 
 <h3 align="center">Languages & Tools</h3>
