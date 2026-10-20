@@ -17,14 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=himanishankar&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-
----
-<!-- snake animation game -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/himanishankar/himanishankar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
 ---
 
 
