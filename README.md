@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -19,12 +20,19 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake-dark.svg" />
   </picture>
 </div>
+
 ---
 
-<!-- Profile visitor counters -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanishankar&color=36BCF7&style=flat-square" alt="Profile Views" />
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nevil06&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/nevil06?tab=followers">
+    <img src="https://img.shields.io/github/followers/nevil06?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="Followers" />
+  </a>
 </p>
+
+</div>
 
 ---
 
