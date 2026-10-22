@@ -12,6 +12,7 @@
 
 ---
 
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -45,3 +46,5 @@
 </p>
 
 ---
+
+
