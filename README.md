@@ -32,6 +32,14 @@
 
 ---
 
+<!--Radial graph -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanishankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 <!--Tech stack Badges -->
 
 <h3 align="center">Languages & Tools</h3>
@@ -45,5 +53,4 @@
 </p>
 
 ---
-
 
