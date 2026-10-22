@@ -11,16 +11,7 @@
 </div>
 
 ---
-<div align="center">
-  <a href="https://github.com/himanishankar/Himanishankar">
-    <img src="https://profile-counter.glitch.me/himanishankar/count.svg" alt="Visitor Count" />
-  </a>
-</div>
 
-<p align="center">
-  <img src="https://reporoster.com/streak/himanishankar" alt="Streak Chart" />
-</p>
----
 <!-- Snake Animation -->
 <div align="center">
   <picture>
