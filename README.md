@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Himani!&fontSize=40&animation=fadeIn" width="100%" />
 </div>
- <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob
+ 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Crafting+digital+experiences;Turning+coffee+into+code%F0%9F%A3%B0" alt="Typing SVG" />
